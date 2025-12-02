@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head> <title> SUDHANSHU SINGH </title>
+        <meta name="author" content="BY-: SUDHANSHU SINGH">
+    <link rel="stylesheet" href="front.css">
+           <link rel="icon" href="download.jpg"></head>
+           <body>
+          <body background="nature.jpg" style="background-size: cover;"></body>
+          <table>
+            <tr>
+              <td><a href="HELLO.html">HOME</a> </td>
+              <td><a href="JOIN.html">JOIN</a></td>
+            </tr>
+          </table>
+         <br>
+            <div style = "border:3px solid #434d43;">
+             <p><i><u><h1><center>SUDHANSHU SINGH</u></center></h1></div>               
+               <img src="insta.JPG" border="5" width="340" height="540"
+                alt="Picture of insta" title="Running with these is not recommended."
+               align="right"/>
+                 <p> Cloud & DevOps Enthusiast | Linux, Git & Networking | Linux Administrator | System management | AWS | Report Making<br> 
+                   Page is Created by Sudhanshu Singh in November 2025.</br> 
+                   <br>Owner: Facebook
+                   Developed by: Facebook<b> Sudhanshu Singh </b>
+                   <br>Original authors: <q>Sudhanshu Singh</q>
+                  <br> Nominations: <b>Teen Choice Award for Choice Social Network</b><br>
+                   Awards: Shorty Award for Apps</br>
+                </p>
+                <a href="https://unsplash.com/s/photos/boy"> http\\:Visit For Poses </a>
+                <hr><p><h2><center><u>FOR EDITING CHECK INSTA</u></center></h2></p></hr>
+                <ol>
+                <li><h1>𝖕𝖍𝖔𝖙𝖔 𝖊𝖉𝖎𝖙𝖔𝖗</h1></li><hr>
+                <li><h1>🆄🅿-70 🅿🆄🆁🅴 🅰🅻🅻🅰🅷🅰🅱🅰🅳🅸</h1></li><hr>
+                <li><h1>🆂🆆🅰🅶 🅼🆄🅽🅳🅰</h1></li><hr>
+                <li><i><h1>No regret No repentance No sorrow No grief</h1></i></li></ol><hr>    
+            </br></i></p><img src="sudhanshu.png" border="3" alt="Picture of insta" title="Running with these is not recommended."
+            align="right"/>
+         <p><b><h3><u> SUDHANSHU SINGH</u></b><sup><b> (7849993862) </b></sup></h3> </p>
+          <cite><b> BY-: SUDHANSHU SINGH</b></cite>
+        </body>
+</html>
