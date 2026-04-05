@@ -1,0 +1,32 @@
+ls
+ls -lrth
+lsblk
+pwd
+cd
+cat
+touch
+vi/vim
+nano
+sudo su
+sudo -u
+sudo
+whoami
+netstate
+top
+ps
+mv
+vmstate
+free
+df
+du
+grep
+grep root |-i
+hostname
+hostname -i
+rm
+mkdir
+rmdir
+rm -rf
+eccho
+head
+tail
