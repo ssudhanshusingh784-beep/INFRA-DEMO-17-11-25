@@ -30,3 +30,4 @@ rm -rf
 eccho
 head
 tail
+user add .
